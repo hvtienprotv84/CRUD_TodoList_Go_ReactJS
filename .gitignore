@@ -1,0 +1,5 @@
+tmp
+client/dist
+client/node_modules
+.air.toml
+.env
